@@ -1,75 +1,24 @@
-<div align="center">
-  <h1>Franco Paolo López Gálvez</h1>
-  <p><b>Ingeniero de Software | Backend & Arquitectura de Soluciones | Cloud Integrations & RPA</b></p>
-  
-  <a href="https://linkedin.com/in/franco-lopez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:francopaolo_lg@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on: La migración de un Core monolítico VBA hacia una arquitectura SaaS moderna con FastAPI, React y PostgreSQL.<br>👯 I’m looking to collaborate on: Proyectos Open Source de automatización (RPA), integraciones complejas de APIs o herramientas para el ecosistema Linux.<br>🤝 I’m looking for help with: Escalar y optimizar pipelines de despliegue en infraestructuras Cloud como Azure.<br>🌱 I’m currently learning: Arquitectura de software y estructuras de datos en mi tercer semestre de Ingeniería en Sistemas.<br>💬 Ask me about: Python, orquestación de APIs (Salesforce/Microsoft Graph), SAP GUI Scripting y cómo reducir tiempos operativos en un 99%.<br>⚡ Fun fact: Mi entorno nativo de desarrollo es Arch Linux (Wayland/Hyprland), pero construyo y despliego soluciones empresariales para ecosistemas Windows.
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francopaolo_lg@outlook.com) 
+
+# 💻 Tech Stack:
+![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=flat-square&logo=crystal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lozp1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=lozp1&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lozp1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lozp1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
+[![](https://komarev.com/ghpvc/?username=lozp1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Perfil Profesional
-
-[cite_start]Soy un **Ingeniero de Software** con un enfoque híbrido en Backend, Arquitectura de Soluciones y Automatización avanzada (RPA)[cite: 5]. [cite_start]Actualmente me desempeño como **Analista de Proyectos e Implementador Técnico** en el sector financiero, donde diseño arquitecturas de extremo a extremo para optimizar procesos críticos[cite: 8, 21].
-
-- [cite_start]🛠️ **Entorno:** Usuario nativo de **Arch Linux** (Wayland/Hyprland) enfocado en flujos de desarrollo automatizados[cite: 9, 19].
-- [cite_start]🏗️ **Core:** Especialista en la modernización de sistemas legacy (VBA/Monolitos) hacia arquitecturas **SaaS** contenerizadas con Python y React[cite: 11, 12, 13].
-- [cite_start]📈 **Impacto:** He desarrollado soluciones que reducen tiempos de procesamiento en un **99%**, eliminando riesgos operativos mediante la orquestación de APIs complejas[cite: 33].
-
----
-
-### 🛠️ Tech Stack & Herramientas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,cs,dotnet,react,nextjs,js,html,css,qt,docker,arch,debian,azure,bash,github,git,svg,vscode&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📂 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/lozp1/Magnus_MK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lozp1&repo=Magnus_MK&theme=tokyonight&show_icons=true" width="48%" />
-  </a>
-  <a href="https://github.com/lozp1/Gemini-Blur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lozp1&repo=Gemini-Blur&theme=tokyonight&show_icons=true" width="48%" />
-  </a>
-</div>
-
----
-
-### 📊 Estadísticas & Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lozp1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=lozp1&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lozp1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lozp1/lozp1/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lozp1/lozp1/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lozp1/lozp1/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<p align="center">
-  [cite_start]<i>"Transformando lógica de negocio compleja en soluciones escalables."</i> [cite: 53]
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
